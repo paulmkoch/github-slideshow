@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Please stay 6 feet apart."
 Use the left arrow to go back!
